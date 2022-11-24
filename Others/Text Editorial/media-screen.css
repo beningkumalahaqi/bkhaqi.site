@@ -14,4 +14,13 @@
         border: solid black 1px;
         margin: -10px 10px
     }
+    p.text-content {
+        text-align: justify;
+        font-size: 13px;
+    }
+    h2.title {
+        margin-top:0;
+        font-size: 20px;
+    }
+    
     }
