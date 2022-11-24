@@ -8,6 +8,7 @@
         border: solid 2px;
         box-shadow: 5px 10px #888888;
         -webkit-user-select: none;
+        -webkit-tap-highlight-color: transparent;
     }
     body:hover {
         transform: scale(1.2);
