@@ -5,6 +5,7 @@ body {
     border: solid 2px;
     margin-top: 50px;
     box-shadow: 5px 10px #888888;
+    cursor: pointer;
 }
 .container {
     padding : 10px;
@@ -65,3 +66,5 @@ p.text-content {
     text-align: justify;
     font-size: 18px;
 }
+
+

@@ -8,6 +8,11 @@
         border: solid 2px;
         box-shadow: 5px 10px #888888;
     }
+    body:hover {
+        transform: scale(1.2);
+        transition: all ease 1000ms;
+        cursor: pointer;
+    }
     div.divider{
         border: solid black 1px;
         margin-top: -10px;
