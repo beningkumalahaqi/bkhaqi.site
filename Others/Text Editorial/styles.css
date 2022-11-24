@@ -8,7 +8,7 @@ body {
     cursor: pointer;
 }
 .container {
-    padding : 10px;
+    padding: 20px;
 }
 
 /* Header */
@@ -24,6 +24,7 @@ p.text-editorial {
     float: left; 
     width: 33%; 
     text-align: center;
+    font-weight: 800;
 }
 p.subject {
     float: left; 
@@ -38,11 +39,11 @@ p.divider {
 /*Divider*/
 div.divider{
     border: solid black 1px;
-    margin-top: -20px;
+    margin-top: -30px;
 }
 div.divider-2 {
     border: solid black 1px;
-    margin-top: 10px;
+    margin-top: 20px;
 }
 
 
@@ -52,8 +53,10 @@ div.title {
     margin: 0;
 }
 h2.title {
-    margin-top:0;
-    font-size: 30px;
+    font-size: 20px;
+    text-transform: uppercase;
+    margin:10px auto auto auto;
+    width: 350px;
 }
 
 /*Text Content*/
@@ -64,7 +67,7 @@ div.text-content {
 }
 p.text-content {
     text-align: justify;
-    font-size: 18px;
+    font-size: 16px;
 }
 
 
