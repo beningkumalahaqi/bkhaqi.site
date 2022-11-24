@@ -1,1 +1,1 @@
-This repository for my profile and portfolio
+bkhaqi.site repository
