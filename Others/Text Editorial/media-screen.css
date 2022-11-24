@@ -3,24 +3,56 @@
     body {
         font-family: 'Times New Roman', Times, serif;
         border: 0;
-        margin-top:0;
+        margin:100px 50px 50px 50px;
         box-shadow:0px 0px ;
+        border: solid 2px;
+        box-shadow: 5px 10px #888888;
     }
     div.divider{
         border: solid black 1px;
         margin-top: -10px;
     }
     div.divider-2 {
-        border: solid black 1px;
-        margin: -10px 10px
+        border: 0;
+        margin: -10px 10px;
+    }
+    div.text-content {
+        margin:10px auto auto auto;
+        width: 200px;
+        padding: 10px;
     }
     p.text-content {
         text-align: justify;
-        font-size: 13px;
+        font-size: 10px;
     }
     h2.title {
         margin-top:0;
         font-size: 20px;
     }
-    
+    /* Header */
+    #header {
+        margin-bottom: 0;   
+    }
+    p.class {
+        float: left; 
+        width: 33%; 
+        text-align: left;
+        font-size: 12px;
+    }
+    p.text-editorial {
+        float: left; 
+        width: 33%; 
+        text-align: center;
+        font-size: 12px;
+    }
+    p.subject {
+        float: left; 
+        width: 34%; 
+        text-align: right;
+        font-size: 12px;
+    }
+    p.divider {
+        color: rgba(255, 255, 255, 0);
+    margin: 0;
+}
     }
